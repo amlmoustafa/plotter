@@ -1,11 +1,11 @@
-import './App.css';
+import "./App.css";
+// import Columns from "./Components/Columns";
+import Columns from "./Components/Columns";
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        
-      </header>
+    <div>
+      <Columns />
     </div>
   );
 }
